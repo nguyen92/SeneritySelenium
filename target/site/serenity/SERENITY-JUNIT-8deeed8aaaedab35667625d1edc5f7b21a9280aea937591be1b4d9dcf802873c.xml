@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="User can add and export the contacts" skipped="0" tests="2" time="41.43" timestamp="2022-09-11 06:00:09"><testcase name="User can add new contact"/><testcase name="Send post request and get the contact that has &quot;Valid&quot; value"/></testsuite>
